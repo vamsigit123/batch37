@@ -1,2 +1,3 @@
 hi this is git version control system.
 	
+add some inforamation into github.
