@@ -3,3 +3,4 @@ hi this is git version control system.
 add some inforamation into github.
 
 difference b/w index area into local repo
+this file is changed to centrol repo
